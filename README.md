@@ -6,6 +6,7 @@ A search engine built in Rust with designed to handle efficient text indexing, a
  **Multi-word recognition**.
  **Snippets**.
  **BM25 Ranking**.
+ **Recency ranking**
 
 # Rust was chosen for its efficiency and memory safety.
 Tokio: async runtime
