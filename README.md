@@ -1,7 +1,7 @@
 # Enclave Engine
 A search engine built in Rust with designed to handle efficient text indexing, autocomplete, typo-tolerant querying.
 
-# Core Feautures
+# Core Features
  **Autocomplete**.
  **Multi-word recognition**.
  **Snippets**.
