@@ -7,6 +7,8 @@ A search engine built in Rust with designed to handle efficient text indexing, a
  **Snippets**.
  **BM25 Ranking**.
 **TF-IDF cosine semantic scoring**.
+ **Recency ranking**
+
 # Rust was chosen for its efficiency and memory safety.
 Tokio: async runtime
 Axum: web framework
